@@ -10,6 +10,5 @@ Projeto desenvolvido para consumir uma API do Github, pesquisando usuários.
 
 - HTML
 - CSS
-- Bootstrap
 - React
 - Git e Github
