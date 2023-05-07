@@ -29,7 +29,7 @@ const RepositoriesPage = () => {
         }
 
         loadData();
-    })
+    }, [])
 
     const onFilterClick = (language) => {
         setCurrentLanguage(language)
