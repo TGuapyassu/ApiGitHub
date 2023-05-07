@@ -17,7 +17,7 @@ export const getLangsFrom = (repositories) => {
         .reduce((data, language) => ({
             ...data,
             [language]: (data[language] || 0) + 1,
-        }), [])
+        }))
 
     delete stats.null
 
