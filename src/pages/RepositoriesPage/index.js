@@ -19,7 +19,7 @@ const RepositoriesPage = () => {
         const loadData = async () => {
             const [userResponse, repositoriesResponse] = await Promise.all([
                 getUser(login),
-                getRepos(login)
+                getRepos(login),
             ])
             setUser(userResponse.data)
             setRepositories(repositoriesResponse.data)
