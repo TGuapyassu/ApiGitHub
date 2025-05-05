@@ -10,7 +10,7 @@ Projeto desenvolvido para consumir a API do GitHub, permitindo a pesquisa de usu
 - Exibição das informações do perfil pesquisado  
 - Interface responsiva e intuitiva  
 
-🔗 **[Demonstração do Projeto](https://api-git-hub-sigma.vercel.app/)**  
+🔗 **[Demonstração do Projeto](https://api-github.tguapyassu.com/)**  
 
 ![Preview](./src/assets/imgs/preview.png)  
 
